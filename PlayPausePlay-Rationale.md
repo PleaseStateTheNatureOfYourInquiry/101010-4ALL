@@ -2,22 +2,20 @@
 
 ### Introduction
 
-Mid-career scientists often find themselves at a crossroads. After years of dedication, they may need to pause their research for various reasons—health issues, family demands, or simply the desire to explore new paths. This pause, while daunting, is not unusual. In many professions, taking a break is seen as a natural part of a career. Yet in academia, it is often considered a setback.
-Pausing can actually be beneficial; it allows individuals to gain new skills, gain perspective, and even reignite their passion for research.
-
-This topic needs exposure and discussion: there is a need for better support systems for those wanting to return to research.
+Mid-career scientists often find themselves at a crossroads. After years of dedication, they may need to pause their research for various reasons—health issues, family demands, or simply the desire to explore new paths. This pause, while daunting, is not unusual. In many professions, taking a break is seen as a natural part of a career. Yet in academia, it is often considered a setback. Pausing can actually be beneficial; it allows individuals to gain new skills, gain perspective, and even reignite their passion for research. This topic needs exposure and discussion: there is a need for better support systems for those wanting to return to research.
 
 To facilitate this transition, we need standard procedures for re-establishing affiliation with universities. Grant opportunities specifically aimed at returners would be a great help. These grants should be agnostic to the reasons for the break, recognizing that everyone’s journey is different.
 
 Existing solutions like the Wellcome Sanger Institute’s Janet Thornton Fellowship and the British Heart Foundation’s Career Re-entry Research Fellowships are steps in the right direction (see below). They provide funding and support for those looking to re-enter the field after a break.
 
-By fostering continuous dialogue about inclusivity and addressing the unique challenges faced by mid-career scientists,
-we can create a more supportive environment that values diverse experiences and backgrounds in science
+A related issue is that of combining scientifc research with other activities. There are very few jobs in research that can be carried out part-time. Is there a demand for this? Could this be achieved?
 
 
 ### Overarching Goal of the Session
-- we are starting a discussion on this topic;
-- we are aiming to collect opportunities that we don't know about;
+- start a discussion on these topics;
+- assess the interest and need for this discussion;
+- collect opportunities that we don't know about;
+  - how to collect and advertise opportunities;
 - we want to start an effort on:
   - finding out who has or knows of similar experiences;
   - starting a series on alternative career talks;
