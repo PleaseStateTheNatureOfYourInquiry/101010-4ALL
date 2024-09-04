@@ -14,9 +14,20 @@ Existing solutions like the Wellcome Sanger Institute’s Janet Thornton Fellows
 By fostering continuous dialogue about inclusivity and addressing the unique challenges faced by mid-career scientists,
 we can create a more supportive environment that values diverse experiences and backgrounds in science
 
+
+### Overarching Goal of the Session
+- we are starting a discussion on this topic;
+- we are aiming to collect opportunities that we don't know about;
+- we want to start an effort on:
+  - finding out who has or knows of similar experiences;
+  - starting a series on alternative career talks;
+  - exposing early career scientists to the subject;
+    
+
 ### Personal Stories
 
 The EPSC splinter session will provide a space to share personal stories.
+
 
 ### Pausing is not strange
 
@@ -28,6 +39,7 @@ The EPSC splinter session will provide a space to share personal stories.
   - **Humanitarian Workers**: Due to the intense nature of the work, career breaks are often encouraged to prevent burnout;
   - **Government Employees**: In some countries, government workers are allowed to take extended leave or career breaks, sometimes referred to as “career breaks” or “unpaid leave.”
 
+
 ### Advantages of hitting pause
 
 - Pausing allows people to do something else;
@@ -36,7 +48,8 @@ The EPSC splinter session will provide a space to share personal stories.
 - Helps understand what makes science great, and improves the ability to place science in a larger context;
 - May reignite passion for research;
 - Explore the world outside the Academia bubble.
-- 
+
+
 ### What would help aspiring returners
 
 - Standard procedure to obtain affiliation status at Universities:
@@ -49,6 +62,7 @@ The EPSC splinter session will provide a space to share personal stories.
   - Should be agnostic for the reason;
   - They do exist for early career and women;
 
+
 ### Other ways to return
 
 - Science management;
@@ -60,7 +74,7 @@ The EPSC splinter session will provide a space to share personal stories.
 
 ### Examples of existing solutions
 
-A Google search for "research grants for researchers returning from break".
+A Google search for "research grants for researchers returning from break" shows a few solutions that already exists. None in the EU, though.
 
 [Welcome Trust](https://wellcome.org/grant-funding/schemes/research-career-re-entry-fellowships)\
 [Imperial College](https://www.imperial.ac.uk/parents-network/grants-for-academic-returners/)\
