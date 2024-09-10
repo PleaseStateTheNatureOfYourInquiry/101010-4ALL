@@ -1,4 +1,9 @@
-(September 2024)
+### Splinter and Zoom info
+
+Splinter meeting [SMW20](https://meetingorganizer.copernicus.org/EPSC2024/session/51557), EPSC 2024, Tuesday 10 September 16:30 - 18:00
+
+Zoom link will be made available shortly before the start of the session.
+
 
 ### Introduction
 
