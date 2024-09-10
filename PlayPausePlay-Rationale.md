@@ -2,7 +2,9 @@
 
 Splinter meeting [SMW20](https://meetingorganizer.copernicus.org/EPSC2024/session/51557), EPSC 2024, Tuesday 10 September 16:30 - 18:00
 
-Zoom link will be made available **here** shortly before the start of the session.
+[Zoom link](https://us02web.zoom.us/j/3132340712?pwd=QWVjbGhZR2hKUXh3ZzhhT052bFlxZz09)
+* Meeting ID: 313 234 0712
+* Passcode: 12458761
 
 
 ### Introduction
