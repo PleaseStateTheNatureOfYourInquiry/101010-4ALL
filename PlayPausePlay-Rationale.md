@@ -2,16 +2,13 @@
 
 Splinter meeting [SMW20](https://meetingorganizer.copernicus.org/EPSC2024/session/51557), EPSC 2024, Tuesday 10 September 16:30 - 18:00
 
-[Zoom link](https://us02web.zoom.us/j/3132340712?pwd=QWVjbGhZR2hKUXh3ZzhhT052bFlxZz09) (Meeting ID: 313 234 0712; Passcode: 12458761)
-
-
 ### Introduction
 
-Mid-career scientists often find themselves at a crossroads. After years of dedication, they may need to pause their research for various reasons—health issues, family demands, or simply the desire to explore new paths. This pause, while daunting, is not unusual. In many professions, taking a break is seen as a natural part of a career. Yet in academia, it is often considered a setback. Pausing can actually be beneficial; it allows individuals to gain new skills, gain perspective, and even reignite their passion for research. This topic needs exposure and discussion: there is a need for better support systems for those wanting to return to research.
+Mid-career scientists often find themselves at crossroads. After years of dedication, one may need to pause one's research for a variety of reasons: health related, family demands, or simply the desire to explore new paths. This pause, while daunting, is not unusual. In many professions, taking a break is seen as a natural part of a career. Yet in academia, it seem it is rather often considered a setback. But pausing can be beneficial; it allows individuals to gain new skills, new perspectives, and even reignite their passion for research. The topic is still somewhat of a taboo and we feel it needs exposure and discussion, with the goal to create a better support systems for those wanting to return to doing research.
 
-To facilitate this transition, we need standard procedures for re-establishing affiliation with universities. Grant opportunities specifically aimed at returners would be a great help. These grants should be agnostic to the reasons for the break, recognizing that everyone’s journey is different.
+To facilitate this transition, we need standard procedures for re-establishing affiliation with universities. Grant opportunities specifically aimed at returners could be a great help. Such grants should be agnostic to the reasons for the break, recognising that everyone’s journey is different.
 
-Existing solutions like the Wellcome Sanger Institute’s Janet Thornton Fellowship and the British Heart Foundation’s Career Re-entry Research Fellowships are steps in the right direction (see below). They provide funding and support for those looking to re-enter the field after a break.
+Existing solutions such as the Wellcome Sanger Institute’s Janet Thornton Fellowship and the British Heart Foundation’s Career Re-entry Research Fellowships are steps in the right direction (see links below). They provide funding and support for those looking to re-enter the field after a break.
 
 A related issue is that of combining scientifc research with other activities. There are very few jobs in research that can be carried out part-time. Is there a demand for this? Could this be achieved?
 
